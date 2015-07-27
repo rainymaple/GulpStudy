@@ -1,0 +1,15 @@
+{
+  "name": "GulpStudy",
+  "version": "1.0.0",
+  "description": "GulpStusy",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jscs": "^1.4.0",
+    "gulp-jshint": "^1.9.2",
+    "gulp-load-plugins": "^1.0.0-rc.1",
+    "jshint-stylish": "^1.0.0"
+  },
+  "scripts": {},
+  "author": "Rain"
+}
